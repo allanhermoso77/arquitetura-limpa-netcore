@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KomgGoZWfvHGJB+lb7LBqfQgkKcK23H5+yD+VlkGIjP+qV6jIVAbpB5DGdoYnbnOC+Ds7+x6aVCtMbv6hQb3Uw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\ArquiteturaLimpaNetCore\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALAN\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
